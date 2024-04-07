@@ -2,7 +2,7 @@
 
 Результат виконання программи:
 
-![image](https://github.com/OleksandrSelehei/blockchain_lab/assets/131198576/af91c029-bd9a-4848-93df-f6842d720585)
+![2024-04-07 (1)](https://github.com/OleksandrSelehei/blockchain_lab/assets/131198576/70d2ac4e-115a-466f-9bdb-2490c87ca6dc)
 
 для використання программи не потрібні сторонні бібліотеки.
 
